@@ -1,4 +1,7 @@
 echo 'i love you from;elharam4'
+echo 'enter your target numper : '
+read v
+echo 'we will hacked'$v
 chmod +x *
 cd /sdcard
 mkdir uoghoufhgwoufhswoufhwroufghoughrougbouhgouthboutghoughuoghougoiughiupoerhgoiuhrpgihpighrpihpirghpierhgopierhgpierhpg>
